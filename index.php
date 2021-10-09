@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>BJS CodeDeploySampletest</title>
+  <title>BJS CodeDeploySample</title>
   <style>
     body {
       color: #ffffff;

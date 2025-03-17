@@ -1,0 +1,2 @@
+1TOP_FILE=/lime/jar/gyomu/R04030201PJ01_STOP
+JR04050101_BATCH=/lime/jar/gyomu/JR04050101.sh
